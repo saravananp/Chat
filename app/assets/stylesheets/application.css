@@ -5,3 +5,16 @@
  *= require_self
  *= require_tree . 
 */
+
+
+
+ul#chat {
+  list-style: none;
+  padding: 0;
+  width: 300px;
+  height: 150px;
+  border: solid 1px #777;
+  margin: 5px 0;
+  overflow: auto;
+}
+
